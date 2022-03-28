@@ -6,7 +6,7 @@
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/mrt-cn) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-F76440?style=flat-quare&labelColor=F76440&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mcaktosun/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-023E6F?style=flat-quare&labelColor=023E6F&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mcaktosun/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@mcaktosun) 
 
 
