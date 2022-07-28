@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mrt-cn
-- 👀 I’m interested in HTML,CSS,JavaScript,Python,Apex(SALESFORCE)
+- 👋 Hi, I’m @mrt-cn, I'm a Trailblazer,
+- 👀 I’m interested in HTML,CSS,JavaScript,Python,Apex
 - 🌱 I’m currently learning Salesforce
 - 💞️ I’m looking to collaborate on any new project where I can improve myself
 - 📫 How to reach me 
