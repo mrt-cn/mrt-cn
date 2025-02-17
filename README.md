@@ -9,9 +9,9 @@
 
 ## 🔥 Featured Projects
 📌 **[EquaGrapher](https://github.com/mrt-cn/EquaGrapher)** – 1., 2. ve 3. dereceden fonksiyonların grafiklerini çizen Python uygulaması.  
-📌 **[Excel to PDF Formatter](https://github.com/mrt-cn/ExcelToPdfSpecial)** – Özel formatlı Excel dosyalarını PDF'e çeviren bir Python uygulaması.
-📌 **[BankATMApp](https://github.com/mrt-cn/BankAtmApp)** – Temel sevyede banka atm simulasyonu iceren bir Python uygulaması.
-📌 **[Matematik Ogretmeni Portfolio Sayfasi](https://github.com/mrt-cn/math_instructor_portfolio_basic)** – Bir Matematik ogretmeni icin yaptigim web sayfasi.(Ilk projelerimden.)
+📌 **[Excel to PDF Formatter](https://github.com/mrt-cn/ExcelToPdfSpecial)** – Özel formatlı Excel dosyalarını PDF'e çeviren bir Python uygulaması.  
+📌 **[BankATMApp](https://github.com/mrt-cn/BankAtmApp)** – Temel sevyede banka atm simulasyonu iceren bir Python uygulaması.  
+📌 **[Matematik Ogretmeni Portfolio Sayfasi](https://github.com/mrt-cn/math_instructor_portfolio_basic)** – Bir Matematik ogretmeni icin yaptigim web sayfasi.(Ilk projelerimden.)  
 
 
 
