@@ -12,7 +12,8 @@
 📌 **[Excel to PDF Formatter](https://github.com/mrt-cn/ExcelToPdfSpecial)** – Özel formatlı Excel dosyalarını PDF'e çeviren bir Python uygulaması.  
 📌 **[BankATMApp](https://github.com/mrt-cn/BankAtmApp)** – Temel sevyede banka atm simulasyonu iceren bir Python uygulaması.  
 📌 **[Matematik Ogretmeni Portfolio Sayfasi](https://github.com/mrt-cn/math_instructor_portfolio_basic)** – Bir Matematik ogretmeni icin yaptigim web sayfasi.(Ilk projelerimden.)    
-📌 **[Restoran Uygulaması](https://github.com/mrt-cn/Restaurant-App)** – React Native ile yazılmış bir mobil Restoran Uygulaması.(Ilk projelerimden.)    
+📌 **[Restoran Uygulaması](https://github.com/mrt-cn/Restaurant-App)** – React Native ile yazılmış bir mobil Restoran Uygulaması.(Ilk projelerimden.)  
+📌 **[HeatCalcPro](https://github.com/mrt-cn/HeatCalcPro)** – Endüstriyel ısıl işlem süreçleri için Python (FastAPI) ve Next.js tabanlı profesyonel hesaplama ve simülasyon uygulaması. 
 
 
 
