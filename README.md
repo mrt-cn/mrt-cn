@@ -18,8 +18,8 @@
 
 
 ## 💻 Tech Stack
-- **Mobile & Web:** React, React Native, JavaScript, HTML, CSS, Bootstrap5
-- **Backend:** Python, Node.js, Apex
+- **Mobile & Web:** React, React Native, JavaScript, Next.js, HTML, CSS, Bootstrap5
+- **Backend:** Python, Node.js, FastAPI, Apex, 
 - **Cloud & CRM:** Salesforce (**Sales & Experience Cloud, Apex, LWC, Flows**)
 - **Automation & Tools:** Pandas, OpenPyXL, ReportLab, Matplotlib, Numpy, PyQt5, Tkinter, CSV
 
